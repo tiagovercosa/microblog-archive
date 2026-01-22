@@ -1,0 +1,97 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Tiago Lima",
+	"icon": "https://micro.blog/vercosa/avatar.jpg",
+	"home_page_url": "https://micro.tiagolima.me/",
+	"feed_url": "https://micro.tiagolima.me/feed.json",
+	"items": [
+		
+			{
+				"id": "http://tiagolima.micro.blog/2026/01/20/impressionante-como-uma-aplicao-grfica.html",
+				
+				"content_html": "<p>É impressionante como uma aplicação gráfica do início dos anos 90 continua sendo tão relevante para pesquisadores no mundo todo até hoje. O <a href=\"https://plasma-gate.weizmann.ac.il/Grace/\">Grace</a>, um <em>fork</em> do <a href=\"https://plasma-gate.weizmann.ac.il/Xmgr/doc/intro.html\">Xmgr</a>, e o <a href=\"https://sourceforge.net/projects/qtgrace/\">qtGrace</a>, ambos voltados para plotagem científica 2D, seguem firmes e fortes no uso diário. E não é por falta de opção moderna: eles oferecem tantos recursos quanto muitas ferramentas atuais que custam uma fortuna.</p>\n<p>Mais adiante, pretendo escrever um <em>post</em> mais completo sobre o uso do qtGrace, que é a aplicação que utilizo no dia a dia da minha pesquisa.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "É impressionante como uma aplicação gráfica do início dos anos 90 continua sendo tão relevante para pesquisadores no mundo todo até hoje. O [Grace](https://plasma-gate.weizmann.ac.il/Grace/), um _fork_ do [Xmgr](https://plasma-gate.weizmann.ac.il/Xmgr/doc/intro.html), e o [qtGrace](https://sourceforge.net/projects/qtgrace/), ambos voltados para plotagem científica 2D, seguem firmes e fortes no uso diário. E não é por falta de opção moderna: eles oferecem tantos recursos quanto muitas ferramentas atuais que custam uma fortuna.\n\nMais adiante, pretendo escrever um _post_ mais completo sobre o uso do qtGrace, que é a aplicação que utilizo no dia a dia da minha pesquisa.\n\n\n<img src=\"uploads/2026/qtgrace.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-01-20T21:27:55-03:00",
+				"url": "https://micro.tiagolima.me/2026/01/20/impressionante-como-uma-aplicao-grfica.html",
+				"tags": ["Photos","Science"]
+			},
+			{
+				"id": "http://tiagolima.micro.blog/2026/01/19/voltando-aos-treinos-depois-de.html",
+				
+				"content_html": "<p>Voltando aos treinos depois de um curto período de férias. Aparentemente, mesmo mantendo a mesma intensidade e cargas dos exercícios, não estou sentindo muito. Nem parece que passei uns 20 dias parado.</p>\n",
+				"content_text": "Voltando aos treinos depois de um curto período de férias. Aparentemente, mesmo mantendo a mesma intensidade e cargas dos exercícios, não estou sentindo muito. Nem parece que passei uns 20 dias parado.\n",
+				"date_published": "2026-01-19T18:08:44-03:00",
+				"url": "https://micro.tiagolima.me/2026/01/19/voltando-aos-treinos-depois-de.html"
+			},
+			{
+				"id": "http://tiagolima.micro.blog/2026/01/18/espero-que-os-jogadores-profissionais.html",
+				
+				"content_html": "<p>Espero que os jogadores profissionais estejam assistindo a partida e vejam que, para vestir a camisa do Sport, tem que ter raça, garra! Pode até perder, mas tem que ter garra! ⚽️🦁</p>\n",
+				"content_text": "Espero que os jogadores profissionais estejam assistindo a partida e vejam que, para vestir a camisa do Sport, tem que ter raça, garra! Pode até perder, mas tem que ter garra! ⚽️🦁\n",
+				"date_published": "2026-01-18T18:55:08-03:00",
+				"url": "https://micro.tiagolima.me/2026/01/18/espero-que-os-jogadores-profissionais.html"
+			},
+			{
+				"id": "http://tiagolima.micro.blog/2026/01/18/criei-um-subdomnio-dedicado-a.html",
+				
+				"content_html": "<p>Criei um subdomínio dedicado ao <a href=\"https://micro.tiagolima.me\"><em>Micro.blog</em></a> para posts curtos/sociais, com integrações entre as minhas contas no <a href=\"https://mastodon.social/@vercosa\"><em>Mastodon</em></a> e no <a href=\"https://bsky.app/profile/tiagolima.me\"><em>BlueSky</em></a>. Já o domínio principal, <a href=\"https://tiagolima.me\">tiagolima.me</a> será para ensaios, artigos e estudos acadêmicos, incluindo minhas pesquisas em andamento.</p>\n",
+				"content_text": "Criei um subdomínio dedicado ao [_Micro.blog_](https://micro.tiagolima.me) para posts curtos/sociais, com integrações entre as minhas contas no [_Mastodon_](https://mastodon.social/@vercosa) e no [_BlueSky_](https://bsky.app/profile/tiagolima.me). Já o domínio principal, [tiagolima.me](https://tiagolima.me) será para ensaios, artigos e estudos acadêmicos, incluindo minhas pesquisas em andamento.\n",
+				"date_published": "2026-01-18T15:27:33-03:00",
+				"url": "https://micro.tiagolima.me/2026/01/18/criei-um-subdomnio-dedicado-a.html"
+			},
+			{
+				"id": "http://tiagolima.micro.blog/2026/01/18/por-muito-tempo-eu-resisti.html",
+				
+				"content_html": "<p>Por muito tempo eu resisti à ideia de ler a série <em>Harry Potter</em>, achando que fosse infantil demais. Hoje vejo que estava enganado. A história é excelente, muito bem construída e prende a atenção do começo ao fim. Estou no sexto livro, <a href=\"https://micro.blog/books/9781781104057\"><em>Harry Potter e o enigma do Príncipe</em></a>, e a expectativa é concluir toda a série ainda este ano.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Por muito tempo eu resisti à ideia de ler a série _Harry Potter_, achando que fosse infantil demais. Hoje vejo que estava enganado. A história é excelente, muito bem construída e prende a atenção do começo ao fim. Estou no sexto livro, [_Harry Potter e o enigma do Príncipe_](https://micro.blog/books/9781781104057), e a expectativa é concluir toda a série ainda este ano.\n\n\n<img src=\"uploads/2026/img-5699.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-01-18T13:03:44-03:00",
+				"url": "https://micro.tiagolima.me/2026/01/18/por-muito-tempo-eu-resisti.html",
+				"tags": ["Photos","Books"]
+			},
+			{
+				"id": "http://tiagolima.micro.blog/2026/01/16/existe-uma-curva-de-aprendizado.html",
+				
+				"content_html": "<p>Existe uma curva de aprendizado, talvez um pouco íngreme, para quem quer se aventurar no micro.blog, Cross-posting e demais maravilhas que o Fediverso oferece. No entanto, só o fato de você ter o seu lugar (cantinho) na web, faz valer todo e qualquer esforço. Vale ressaltar que o <a href=\"https://book.micro.blog/\">livro do micro.blog</a>, do <a href=\"https://micro.blog/manton\">@manton</a>, tem sido de grande valia nessa jornada, que tem se revelado muito satisfatória.</p>\n",
+				"content_text": "Existe uma curva de aprendizado, talvez um pouco íngreme, para quem quer se aventurar no micro.blog, Cross-posting e demais maravilhas que o Fediverso oferece. No entanto, só o fato de você ter o seu lugar (cantinho) na web, faz valer todo e qualquer esforço. Vale ressaltar que o [livro do micro.blog](https://book.micro.blog/), do [@manton](https://micro.blog/manton), tem sido de grande valia nessa jornada, que tem se revelado muito satisfatória.\n\n",
+				"date_published": "2026-01-16T18:24:23-03:00",
+				"url": "https://micro.tiagolima.me/2026/01/16/existe-uma-curva-de-aprendizado.html",
+				"tags": ["Books","Fediverse"]
+			},
+			{
+				"id": "http://tiagolima.micro.blog/2026/01/16/estudando-um-pouco-do-funcionamento.html",
+				
+				"content_html": "<p>Estudando um pouco do funcionamento desse &ldquo;universo&rdquo; que é o Fediverso, <em>IndieWeb</em>, micro.blog e outras tecnologias que fazem parte desse mundo. Esse conceito de rede descentralizada faz com que diferentes aplicações conversem entre si, parecendo mágica.</p>\n",
+				"content_text": "Estudando um pouco do funcionamento desse \"universo\" que é o Fediverso, _IndieWeb_, micro.blog e outras tecnologias que fazem parte desse mundo. Esse conceito de rede descentralizada faz com que diferentes aplicações conversem entre si, parecendo mágica.\n",
+				"date_published": "2026-01-16T11:31:24-03:00",
+				"url": "https://micro.tiagolima.me/2026/01/16/estudando-um-pouco-do-funcionamento.html",
+				"tags": ["Fediverse"]
+			},
+			{
+				"id": "http://tiagolima.micro.blog/2025/12/20/isto-e-apenas-um-teste.html",
+				
+				"content_html": "<p>Isto é apenas um teste na natureza, claro. 😌</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Isto é apenas um teste na natureza, claro. 😌\n\n<img src=\"https://cdn.uploads.micro.blog/163319/2026/f3eeae6d9c.jpg\">\n",
+				"date_published": "2025-12-20T18:10:00-03:00",
+				"url": "https://micro.tiagolima.me/2025/12/20/isto-e-apenas-um-teste.html",
+				"tags": ["Photos","Nature"]
+			},
+			{
+				"id": "http://tiagolima.micro.blog/2025/05/02/viagem-a-praia-de-catuama.html",
+				
+				"content_html": "<p>Viagem a  Praia de Catuama, onde tem uma praia tranquila e charmosa no litoral norte de Pernambuco, em Goiana. 🗺️ ✈️</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Viagem a  Praia de Catuama, onde tem uma praia tranquila e charmosa no litoral norte de Pernambuco, em Goiana. 🗺️ ✈️\n\n<img src=\"uploads/2026/02957f4519.jpg\" alt=\"Uma paisagem costeira tranquila com pedras na areia e o mar ao fundo sob um céu azul.\"><img src=\"uploads/2026/61cf84771c.jpg\" alt=\"Uma praia tranquila com areia clara e um mar azul sob um céu parcialmente nublado.\"><img src=\"uploads/2026/image.jpg\" alt=\"Uma estátua de uma figura feminina de braços abertos está sobre um pedestal em frente ao mar.\">\n",
+				"date_published": "2025-05-02T15:14:00-03:00",
+				"url": "https://micro.tiagolima.me/2025/05/02/viagem-a-praia-de-catuama.html",
+				"tags": ["Photos","Nature","Travel"]
+			},
+			{
+				"id": "http://tiagolima.micro.blog/2024/07/08/no-silncio-da-manh-um.html",
+				
+				"content_html": "<p>No silêncio da manhã, um café tomado sem pressa, acompanhado de rotinas simples, é a melhor maneira de iniciar o dia.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "No silêncio da manhã, um café tomado sem pressa, acompanhado de rotinas simples, é a melhor maneira de iniciar o dia.\n\n<img src=\"https://cdn.uploads.micro.blog/163319/2026/38bb9b4353.jpg\">\n",
+				"date_published": "2024-07-08T08:45:00-03:00",
+				"url": "https://micro.tiagolima.me/2024/07/08/no-silncio-da-manh-um.html",
+				"tags": ["Photos","Coffee","Urban"]
+			}
+	]
+}
