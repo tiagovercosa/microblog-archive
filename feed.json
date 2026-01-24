@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://tiagolima.micro.blog/2026/01/23/as-ferramentas-de-ia-tudo.html",
+				
+				"content_html": "<p>As ferramentas de IA é tudo que há nos dias atuais. O hype é grande e o seu uso, por muitos, é indiscriminado, mas se pensarmos bem, isso tem uma implicação grande na questão de <strong>privacidade de dados</strong>. Eu sei que muitos não se importam, mas se pensarmos bem, não seria nada benéfico ter, por exemplo, o histórico de nossas conversas viajando pela web e sendo processada em servidores de terceiros. Eu sei que IA é muito legal, eu também uso e gosto bastante, mas temos que ter bom senso em seu uso.</p>\n",
+				"content_text": "As ferramentas de IA é tudo que há nos dias atuais. O hype é grande e o seu uso, por muitos, é indiscriminado, mas se pensarmos bem, isso tem uma implicação grande na questão de **privacidade de dados**. Eu sei que muitos não se importam, mas se pensarmos bem, não seria nada benéfico ter, por exemplo, o histórico de nossas conversas viajando pela web e sendo processada em servidores de terceiros. Eu sei que IA é muito legal, eu também uso e gosto bastante, mas temos que ter bom senso em seu uso.\n",
+				"date_published": "2026-01-23T11:29:29-03:00",
+				"url": "https://micro.tiagolima.me/2026/01/23/as-ferramentas-de-ia-tudo.html",
+				"tags": ["AI","Privacity"]
+			},
+			{
 				"id": "http://tiagolima.micro.blog/2026/01/20/impressionante-como-uma-aplicao-grfica.html",
 				
 				"content_html": "<p>É impressionante como uma aplicação gráfica do início dos anos 90 continua sendo tão relevante para pesquisadores no mundo todo até hoje. O <a href=\"https://plasma-gate.weizmann.ac.il/Grace/\">Grace</a>, um <em>fork</em> do <a href=\"https://plasma-gate.weizmann.ac.il/Xmgr/doc/intro.html\">Xmgr</a>, e o <a href=\"https://sourceforge.net/projects/qtgrace/\">qtGrace</a>, ambos voltados para plotagem científica 2D, seguem firmes e fortes no uso diário. E não é por falta de opção moderna: eles oferecem tantos recursos quanto muitas ferramentas atuais que custam uma fortuna.</p>\n<p>Mais adiante, pretendo escrever um <em>post</em> mais completo sobre o uso do qtGrace, que é a aplicação que utilizo no dia a dia da minha pesquisa.</p>\n<!-- raw HTML omitted -->\n",
@@ -70,7 +79,7 @@
 				"id": "http://tiagolima.micro.blog/2025/12/20/isto-e-apenas-um-teste.html",
 				
 				"content_html": "<p>Isto é apenas um teste na natureza, claro. 😌</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Isto é apenas um teste na natureza, claro. 😌\n\n<img src=\"https://cdn.uploads.micro.blog/163319/2026/f3eeae6d9c.jpg\">\n",
+				"content_text": "Isto é apenas um teste na natureza, claro. 😌\n\n<img src=\"uploads/2026/f3eeae6d9c.jpg\">\n",
 				"date_published": "2025-12-20T18:10:00-03:00",
 				"url": "https://micro.tiagolima.me/2025/12/20/isto-e-apenas-um-teste.html",
 				"tags": ["Photos","Nature"]
@@ -88,7 +97,7 @@
 				"id": "http://tiagolima.micro.blog/2024/07/08/no-silncio-da-manh-um.html",
 				
 				"content_html": "<p>No silêncio da manhã, um café tomado sem pressa, acompanhado de rotinas simples, é a melhor maneira de iniciar o dia.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "No silêncio da manhã, um café tomado sem pressa, acompanhado de rotinas simples, é a melhor maneira de iniciar o dia.\n\n<img src=\"https://cdn.uploads.micro.blog/163319/2026/38bb9b4353.jpg\">\n",
+				"content_text": "No silêncio da manhã, um café tomado sem pressa, acompanhado de rotinas simples, é a melhor maneira de iniciar o dia.\n\n<img src=\"uploads/2026/38bb9b4353.jpg\">\n",
 				"date_published": "2024-07-08T08:45:00-03:00",
 				"url": "https://micro.tiagolima.me/2024/07/08/no-silncio-da-manh-um.html",
 				"tags": ["Photos","Coffee","Urban"]
